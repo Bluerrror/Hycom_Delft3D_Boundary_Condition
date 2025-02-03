@@ -52,7 +52,7 @@ cd <repository_name>
 2. **Run the Python script**:
 
 ```bash
-jupyterlab script_name.py
+jupyterlab Salinity_Temp.ipynb
 ```
 
 ---
