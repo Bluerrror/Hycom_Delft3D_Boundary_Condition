@@ -52,10 +52,8 @@ cd <repository_name>
 2. **Run the Python script**:
 
 ```bash
-python script_name.py
+jupyterlab script_name.py
 ```
-
-Replace `script_name.py` with the actual script filename.
 
 ---
 
